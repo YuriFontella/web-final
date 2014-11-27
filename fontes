@@ -1,0 +1,22 @@
+Cabeçalhos <h1> serão renderizados com fonte "Arial". Se o usuário não tiver a font Arial instalada, será usada a fonte "Verdana". Se ambas estiverem indisponíveis na máquina do usuário será usada uma fonte da família sans-serif.
+
+"Times New Roman", serif;
+
+Cabeçalhos <h2> serão renderizados com fonte "Arial". Se o usuário não tiver a font Arial instalada, será usada a fonte "Verdana". Se ambas estiverem indisponíveis na máquina do usuário será usada uma fonte da família sans-serif.
+
+arial, verdana, sans-serif;
+
+Parágrafos <p> serão renderizados com fonte "Open Sans". Se o usuário não tiver a font Open Sans instalada, será usada a fonte "Helvetica Neue". Se ambas estiverem indisponíveis na máquina do usuário será usada uma fonte da família sans-serif.
+
+"Open Sans", "Helvetica Neue", sans-serif;
+
+Para o restante da página <html> será renderizada com a fonte Helvetica. Se o usuário não tiver a font Helvetica instalada, será usada a fonte "Arial". Se ambas estiverem indisponíveis na máquina do usuário será usada uma fonte da família sans-serif.
+
+Possíveis fonts serif que serão utilizadas:
+"Times New Roman" "Garamond" "Georgia"
+
+Possíveis fonts sans-serif que serão utilizadas:
+"Trebuchet" "Arial" "Verdana"
+
+Possíveis fonts monospace que serão utilizadas:
+"Courier" "Courier New" "Andele Mono"
